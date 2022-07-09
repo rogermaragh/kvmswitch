@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kvmswitch", "kvmswitch.vcproj", "{5DCE20E0-B776-4B84-81E3-68D739AB5CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5DCE20E0-B776-4B84-81E3-68D739AB5CCC}.Debug.ActiveCfg = Debug|Win32
+		{5DCE20E0-B776-4B84-81E3-68D739AB5CCC}.Debug.Build.0 = Debug|Win32
+		{5DCE20E0-B776-4B84-81E3-68D739AB5CCC}.Release.ActiveCfg = Release|Win32
+		{5DCE20E0-B776-4B84-81E3-68D739AB5CCC}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
